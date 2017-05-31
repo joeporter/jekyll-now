@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+I currently work as an engineering manager and researcher at [Digital Reasoning](http://www.digitalreasoning.com/).
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[LinkedIn](https://www.linkedin.com/in/engineeringadventures/)
